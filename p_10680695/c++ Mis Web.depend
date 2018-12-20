@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545337187 source:c:\users\rafiq abubakar\desktop\c++ mis web\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string.h>
+
